@@ -1,4 +1,4 @@
-#whistleApi
+# WhistleApi
 
 ## Description
 
