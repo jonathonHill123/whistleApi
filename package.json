@@ -3,7 +3,8 @@
   "version": "0.0.1",
   "private": true,
   "scripts": {
-    "start": "nodemon app.js"
+    "start": "nodemon app.js",
+    "enable-https": "./bin/ngrok http 3001"
   },
   "dependencies": {
     "cookie-parser": "~1.4.3",
